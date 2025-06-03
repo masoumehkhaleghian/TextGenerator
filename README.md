@@ -109,13 +109,13 @@ matplotlib
 
 ---
 
-## 🔗 Resources
+## Resources
 -  Full project and data: [Google Drive](https://drive.google.com/drive/folders/1dvj6VtVJiGaJWPp1R2T5f66Yi8OQjhjw?usp=sharing)
 -  GPT-2 model: https://huggingface.co/HooshvareLab/gpt2-fa
 
 ---
 
-## 👤 Author
+## Author
 **Masoumeh Khaleghian**  
 Persian NLP Engineer and AI Researcher  
 GitHub: [masoumehkhaleghian](https://github.com/masoumehkhaleghian)
