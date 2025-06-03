@@ -63,11 +63,6 @@ git clone https://github.com/masoumehkhaleghian/TextGenerator.git
 cd TextGenerator
 ```
 
-### Install Dependencies
-```bash
-pip install -r requirements.txt
-```
-
 ### Launch Notebook
 ```bash
 jupyter notebook TextGenerator.ipynb
